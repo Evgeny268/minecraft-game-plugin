@@ -1,0 +1,16 @@
+# specifies intentionally untracked files that Git should ignore
+/**/.idea
+/**/out/production
+/**/src/META-INF
+*.iml
+/**/target/
+/**/lib/
+/**/out/
+.idea
+*.iws
+*.ipr
+/.mvn/
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
